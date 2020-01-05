@@ -1,0 +1,6 @@
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculator\bin\Debug\StringCalculator.exe.config
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculator\bin\Debug\StringCalculator.exe
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculator\obj\Debug\StringCalculator.exe
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculator\obj\Debug\StringCalculator.pdb
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculator\obj\Debug\StringCalculatorKata1.csprojAssemblyReference.cache

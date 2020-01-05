@@ -1,0 +1,16 @@
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\obj\Debug\StringCalculatorTest.csprojAssemblyReference.cache
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\StringCalculatorTest.dll
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\StringCalculatorTest.pdb
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\StringCalculator.exe
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\StringCalculator.pdb
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\StringCalculator.exe.config
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\obj\Debug\StringCalculatorTest.csproj.CopyComplete
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\obj\Debug\StringCalculatorTest.dll
+C:\Users\Price's\source\c-sharp\Kata1\String Calculator\5Jan2020\StringCalculatorTest\obj\Debug\StringCalculatorTest.pdb
